@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;wafdj/wafweb/wafwebapp/urls.p&apos; to &apos;urls.py&apos;" description="Rename resource &apos;urls.p&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="wafweb/wafwebapp/urls.p" name="urls.py" stamp="1468527088022" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;wafdj/wafweb/wafwebapp/static/css/waf.css&apos; to &apos;basic.css&apos;" description="Rename resource &apos;waf.css&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="wafweb/wafwebapp/static/css/waf.css" name="basic.css" stamp="1468596490926" updateReferences="true"/>
+</session>

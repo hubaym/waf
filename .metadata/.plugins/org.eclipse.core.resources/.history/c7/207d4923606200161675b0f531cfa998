@@ -1,0 +1,13 @@
+from django.conf.urls import url
+
+from . import views
+
+urlpatterns = [
+    url(r'^$', views.index, name='index'),
+    url(r'^results/$', views.results, name='results'),
+    url(r'^login/$', views.login, name='login'),
+    url(r'^registration/$', views.registration, name='registration'),
+    url(r'^auth/$', views.auth_view, name='auth_view'),    
+]
+from django.conf.urls import (
+handler400, handler403, handler404, handler500

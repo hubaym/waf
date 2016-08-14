@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;wafdj/wafweb/wafwebapp/classes/user/userdbconnection&apos; to &apos;userdbconnection.py&apos;" description="Rename resource &apos;userdbconnection&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="wafweb/wafwebapp/classes/user/userdbconnection" name="userdbconnection.py" stamp="1469800168505" updateReferences="true"/>
+</session>

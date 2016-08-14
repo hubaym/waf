@@ -1,0 +1,14 @@
+
+
+class User:
+    
+    def __init__(self,email, email_subs,
+                 userid,
+                 name = None,
+                 label = 'user',
+                 language = 'en'):
+        self.name=name
+        self.email=email
+        self.language=language
+        self.label =label
+        self.userid = userid

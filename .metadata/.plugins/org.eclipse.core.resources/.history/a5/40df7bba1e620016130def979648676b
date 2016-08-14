@@ -1,0 +1,105 @@
+html, body, .container {
+  height: 100%;
+}
+
+/* Reset */
+html, body, h1, p, a, div, section {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  font: inherit;
+}
+
+/* Basic */
+body { 
+  font: 18px/23px "Cantarell", sans-serif;
+  color: #ffffff;
+}
+
+h1 {
+  color: #efecec;
+  text-transform: uppercase;
+  font-size: 40px;
+  line-height: 50px;
+  font-weight: 400;
+  margin-top: 20px;
+}
+
+a {
+  color: #ffffff;
+}
+
+p {
+  margin: 0 0 15px 0;
+}
+
+body {
+  font: 18px/23px "Cantarell", sans-serif;
+  color: #ffffff;
+  background-image: url("/static/pic/back01.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #464646;
+}
+input[type=text] {
+    background-color: #3CBC8D;
+    color: white;
+}
+
+.navbar {
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  height: 40px;
+  z-index: 9999;
+  position: fixed;
+}
+
+  .inner {
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+.navbar a {
+  display: inline-block;
+  border: 1px solid #fff;
+  font-size: 14px;
+  line-height: 24px;
+  border-radius: 3px;
+  padding: 2px 15px;
+  text-decoration: none;
+  margin-top: 5px;
+}
+
+.container {
+  display: table;
+  padding-top: 40px;
+  width: 100%;
+}
+
+.content {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+
+/* Special */
+.sub-title {
+  margin: 30px auto;
+  font-size: 18px;
+  line-height: 23px;
+  text-transform: uppercase;
+}
+
+
+.results-page tbody {
+  background-color:rgba(255, 255, 255, 0.5);
+}
+panel-body{
+	background-color: rgba(255,0,0,0.4)
+
+}
+
+

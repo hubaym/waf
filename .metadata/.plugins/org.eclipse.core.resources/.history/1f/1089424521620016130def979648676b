@@ -1,0 +1,18 @@
+from neoquery import NeoQuery
+
+class UserToNeo(NeoQuery):
+    
+    def __init__(self):
+        super().__init__()
+        
+    
+    def createCriteria(self, user ):
+        node = self.db.nodes.create(email = user.email,
+                        email_subs = user.email_subs,
+                        language = user.language,
+                        language = user.language
+                        )
+        root = self.db.labels.create(user.label)
+        root.add(node)
+        
+        

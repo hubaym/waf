@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;wafdj/wafweb/wafwebapp/static/css/basic.css&apos;" deleteContents="false" description="Delete resource &apos;wafdj/wafweb/wafwebapp/static/css/basic.css&apos;" element1="/wafdj/wafweb/wafwebapp/static/css/basic.css" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1468608947872"/>
+</session>
