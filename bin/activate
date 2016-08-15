@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/hubaymarton/Documents/errorfare/project/waf/env"
+VIRTUAL_ENV=$(dirname $(dirname $(pwd)))
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
