@@ -53,7 +53,7 @@ class SpatialApi():
         extraURL = 'ext/SpatialPlugin/graphdb/addNodeToLayer'
         json = dict()
         json['layer'] = name
-        json['node'] = self.url  + 'node/' + str(id)
+        json['node'] = self.__url  + 'node/' + str(id)
         
         
         self.POST(self.__url + extraURL, json)

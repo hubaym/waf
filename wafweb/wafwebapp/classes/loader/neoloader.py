@@ -176,27 +176,27 @@ class NeoLoader:
 if __name__ == "__main__":
     continents = {'en'}
     countries = {'en'}
-    drop = True
+    drop = False
     neotest = NeoLoader()
     spatialapi = SpatialApi()
     if drop: 
         neotest.deleteDB()
-    neotest.loadContinent(continents)
+    #neotest.loadContinent(continents)
     
-    neotest.loadCountry(countries)
-    neotest.createIndexOnCountry()
-    neotest.connectCountries()
+    #neotest.loadCountry(countries)
+    #neotest.createIndexOnCountry()
+    #neotest.connectCountries()
     
-    neotest.loadRegion()
-    neotest.loadProvince()
-    neotest.createIndexOnProvince()
+    #neotest.loadRegion()
+    #neotest.loadProvince()
+    #neotest.createIndexOnProvince()
     
-    neotest.loadCity()    
-    neotest.createIndexOnCity()  
-    neotest.createIndexOnGeo()  
+    #neotest.loadCity()    
+    #neotest.createIndexOnCity()  
+    #neotest.createIndexOnGeo()  
     #neotest.loadCityHu()
-    spatialapi.addPointLayer("geomlayer")
-    spatialapi.addSpatialIndex("geomlayer")
+    #spatialapi.addPointLayer("geomlayer")
+    #spatialapi.addSpatialIndex("geomlayer")
     spatialapi.addAllNodeToIndex("geomlayer")
     
     
