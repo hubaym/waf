@@ -241,11 +241,11 @@ class DbImport(DbConnection):
 if __name__ == '__main__':
     # you want to initialize the class
     database   = DbImport()
-    #database.importContinent('en')    
+    database.importContinent('en')    
     database.importRegion('en')    
     database.importProvince('en') 
-    #database.importCountry('en')    
-    #database.importCity('en')
+    database.importCountry('en')    
+    database.importCity('en')
     
     database.close()
     print('done')
