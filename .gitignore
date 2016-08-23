@@ -5,6 +5,7 @@ include/
 data/
 lib/
 libs/
+lib64/
 bin/
 **/__pycache__/
 .openshift/
