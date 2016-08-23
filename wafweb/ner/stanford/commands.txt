@@ -1,3 +1,0 @@
-java -mx600m -cp "*;lib\*" edu.stanford.nlp.process.PTBTokenizer twittertrain.txt > twittertrain.tok
-
-java -cp "*;lib\*;stanford-ner.jar" edu.stanford.nlp.ie.crf.CRFClassifier -prop \Users\hubaymarton\Documents\errorfare\stanford-ner-2015-12-09\trainfile.prop

@@ -1,9 +1,0 @@
-INSTUPemailsender
-/Users/hubaymarton/Documents/errorfare/project/waf/env/wafweb/wafwebapp/classes/loader/emailsender.py
-INFOS:&&1|1|2|0&&2|3|2|1&&2|4|2|1&&2|5|2|1&&2|6|2|1
-sendEmails=6
-EmailSender=1
-emailsender=2
-__init__=3
-getEmailsandOffersFromDB=5
-proccessTask=4
