@@ -21,7 +21,7 @@ class GeoText(object):
     def generateDropdown(self, language='en'):
         if language =='en':
             geo = GeoTextCoreEn()
-        with open(geo.dropdownfile, 'w') as fp:
+        with open(geo.dropdownfile, 'w+') as fp:
             json.dump(geo.dropdown,fp)
         pass
         
