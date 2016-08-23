@@ -11,7 +11,7 @@ https://docs.djangoproject.com/en/1.9/ref/settings/
 """
 
 import os
-import wafwebapp.classes.constant.wafconnection as wcon
+import wafconnection as wcon
 
 print('%s environment setup is loading' % 'Production' if wcon.PROD else 'Development')
 
