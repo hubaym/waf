@@ -9,7 +9,7 @@ bin/
 **/__pycache__/
 .openshift/
 wafdj/
-
+pip-selfcheck.json
 
 # pyc#
 *.pyc
