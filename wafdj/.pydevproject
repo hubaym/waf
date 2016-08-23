@@ -20,5 +20,7 @@
 <value>manage.py</value>
 <key>DJANGO_SETTINGS_MODULE</key>
 <value>wafweb.settings</value>
+<key>DJANGO_DEVELOPMENT</key>
+<value>true</value>
 </pydev_variables_property>
 </pydev_project>

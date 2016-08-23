@@ -2,6 +2,7 @@ from offerstoneo import OffersToNeo
 from offer import Offer
 from mongolayer import MongoLayer
 from waflog import WafLog
+import classes.utils.status
 
 
 class OfferLoader():
@@ -13,20 +14,27 @@ class OfferLoader():
 
     def initOffers(self):
         self.offers = self.__mongo.getOffersWithPlace()
+        
+    def initEvaluatedOffers(self):
+        self.offers = self.__mongo.getEvaluatedOffers()
     
     def loadOffer(self):   
         self.initOffers()
         i = 0
         for offer in self.offers:
-            offer = Offer(str(offer.get('_id')), offer.get('tweet_id'), offer.get('dept'),
-                  offer.get('arr'),
-                  offer.get('created_at'),
-                  offer.get('text'),
-                  offer.get('language'),
-                  offer.get('source_level1'),
-                  offer.get('source_level2')
+            offer = Offer(str(offer.get('_id')), 
+                          offer.get('tweet_id'), 
+                          offer.get('dept'),
+                          offer.get('arr'),
+                          offer.get('created_at'),
+                          offer.get('text'),
+                          offer.get('language'),
+                          offer.get('source_level1'),
+                          offer.get('source_level2'),
+                          offer.get('links'),
+                          status.TWITTER_IN_NEO_EMAIL_NOT_DONE
                   )
-            WafLog().neologger.info(str(offer.__dict__).encode('utf-8'))
+            #WafLog().neologger.info(str(offer.__dict__).encode('utf-8'))
             self.__neo.createOffer(offer)
             i+=1
             if i%200 ==0:
@@ -39,9 +47,11 @@ class OfferLoader():
 
 
 if __name__ == '__main__':
+    print('start to load offers to neo')
     toneo = OfferLoader()
     toneo.deleteOffersfromNeo()
     toneo.loadOffer()
+    print('job is done')
    
     
     

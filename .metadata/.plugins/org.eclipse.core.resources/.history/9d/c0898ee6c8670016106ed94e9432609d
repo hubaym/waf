@@ -1,0 +1,9 @@
+'''
+Created on 2016. aug. 21.
+
+@author: hubaymarton
+'''
+
+NOT_PROCESSED='NOT_EVALUATED'
+EVALUATED = 'EVALUATED'
+LOADED_INTO_NEO = 'LOADED_INTO_NEO'

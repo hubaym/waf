@@ -46,7 +46,7 @@ id;iso2;iso3;name;capital;area;population;continent;tld;currency_code;currency;l
 30044;CK;COK;Cook Islands;Avarua;240;21388;OC;.ck;NZD;Dollar;en-CK,mi;;
 30045;CL;CHL;Chile;Santiago;756950;16746491;SA;.cl;CLP;Peso;es-CL;PE,BO,AR;Chilean
 30046;CM;CMR;Cameroon;Yaounde;475440;19294149;AF;.cm;XAF;Franc;en-CM,fr-CM;TD,CF,GA,GQ,CG,NG;
-30047;CN;CHN;China;Beijing;9596960;1330044000;AS;.cn;CNY;Yuan Renminbi;zh-CN,yue,wuu,dta,ug,za;LA,BT,TJ,KZ,MN,AF,NP,MM,KG,PK,KP,RU,VN,IN;a Chinese
+30047;CN;CHN;China;Beijing;9596960;1330044000;AS;.cn;CNY;Yuan Renminbi;zh-CN,yue,wuu,dta,ug,za;LA,BT,TJ,KZ,MN,AF,NP,MM,KG,PK,KP,RU,VN,IN;Chinese
 30048;CO;COL;Colombia;Bogota;1138910;47790000;SA;.co;COP;Peso;es-CO;EC,PE,PA,BR,VE;Colombian
 30049;CR;CRI;Costa Rica;San Jose;51100;4516220;NA;.cr;CRC;Colon;es-CR,en;PA,NI;Costa Rican
 30050;CU;CUB;Cuba;Havana;110860;11423000;NA;.cu;CUP;Peso;es-CU;US;Cuban
@@ -66,7 +66,7 @@ id;iso2;iso3;name;capital;area;population;continent;tld;currency_code;currency;l
 30064;EG;EGY;Egypt;Cairo;1001450;80471869;AF;.eg;EGP;Pound;ar-EG,en,fr;LY,SD,IL,PS;Egyptian
 30065;EH;ESH;Western Sahara;El-Aaiun;266000;273008;AF;.eh;MAD;Dirham;ar,mey;DZ,MR,MA;
 30066;ER;ERI;Eritrea;Asmara;121320;5792984;AF;.er;ERN;Nakfa;aa-ER,ar,tig,kun,ti-ER;ET,SD,DJ;Eritrean
-30067;ES;ESP;Spain;Madrid;504782;46505963;EU;.es;EUR;Euro;es-ES,ca,gl,eu,oc;AD,PT,GI,FR,MA;South Korean
+30067;ES;ESP;Spain;Madrid;504782;46505963;EU;.es;EUR;Euro;es-ES,ca,gl,eu,oc;AD,PT,GI,FR,MA;Spanish
 30068;ET;ETH;Ethiopia;Addis Ababa;1127127;88013491;AF;.et;ETB;Birr;am,en-ET,om-ET,ti-ET,so-ET,sid;ER,KE,SD,SS,SO,DJ;Ethiopian
 30069;FI;FIN;Finland;Helsinki;337030;5244000;EU;.fi;EUR;Euro;fi-FI,sv-FI,smn;NO,RU,SE;Finnish
 30070;FJ;FJI;Fiji;Suva;18270;875983;OC;.fj;FJD;Dollar;en-FJ,fj;;Fijian

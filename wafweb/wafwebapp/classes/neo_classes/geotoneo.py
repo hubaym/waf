@@ -61,6 +61,22 @@ class GeoToNeo(NeoQuery):
                 WafLog().neologger.info("neighbours cannot find {0} {1}".format(home,country_code))
             else:
                 node.relationships.create(neoc.LABEL_NEIGHBOUR, neig)
+                
+    def createProvince(self, provi):
+        node = self.db.nodes.create(name = provi.name, 
+                                     pgid=provi.pgid,
+                        country_code = provi.country_code,
+                        language = provi.language
+                        )
+        geo = self.db.labels.create(neoc.LABEL_GEO)
+        geo.add(node)   
+        citylabel = self.db.labels.create(neoc.LABEL_PROVINCE)
+        citylabel.add(node)
+        
+        if provi.country_code is not None and provi.country_code is not ' ':
+            country = self.getCountryByCode(provi.country_code)
+            if country is not None:
+                country.relationships.create(neoc.LABEL_CONTAINS, node)
         
     def createCity(self, city):
         node = self.db.nodes.create(name = city.name, 
@@ -68,17 +84,25 @@ class GeoToNeo(NeoQuery):
                         country_code = city.country_code,
                         language = city.language,
                         lat = city.lat,
-                        lan = city.lan)
+                        lan = city.lan,
+                        province =city.province)
         geo = self.db.labels.create(neoc.LABEL_GEO)
         geo.add(node)   
-        citylabel = self.db.labels.create(city.label)
+        citylabel = self.db.labels.create(neoc.LABEL_CITY)
         citylabel.add(node)
         
+        if city.province is not None and city.province is not ' ':
+            province = self.getProvinceByName(city.province)
+            if province is not None:
+                province.relationships.create(neoc.LABEL_CONTAINS, node)
+                return
         if city.country_code is not None and city.country_code is not ' ':
+            WafLog().neologger.info('Could not find province: %s for city %s try with country %s' 
+                                        % (city.province, city.name, city.country_code))
             country = self.getCountryByCode(city.country_code)
             if country is not None:
                 country.relationships.create(neoc.LABEL_CONTAINS, node)
-        
+            
                
       
  

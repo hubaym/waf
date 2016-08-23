@@ -1,12 +1,14 @@
 from neo4jrestclient.client import GraphDatabase
 from wrongsearchexception import WrongSearchException
-import wafconnection as con
+import classes.constant.wafconnection as con
 from searchcriteria import SearchCriteria
 from spatialapi import SpatialApi
 
 class NeoSearchQuery():
 	def __init__(self):
-		self.db = GraphDatabase(con.neo_host, username=con.neo_user, password=con.neo_psw)
+		self.db = GraphDatabase(con.NEO_HOST, 
+							username=con.NEO_USER, 
+							password=con.NEO_PSW)
 	
 	
 	def getDepartureGeometry(self, criteria):

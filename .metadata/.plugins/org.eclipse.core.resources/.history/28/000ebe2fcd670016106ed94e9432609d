@@ -1,0 +1,18 @@
+
+
+class EmailSender():
+    
+    def __init__(self):
+        pass
+    
+    def proccessTask(self):
+            
+        self.getEmailsandOffersFromDB()
+        self.sendEmails()
+        
+        
+    def getEmailsandOffersFromDB(self):
+        pass
+    
+    def sendEmails(self):
+        pass

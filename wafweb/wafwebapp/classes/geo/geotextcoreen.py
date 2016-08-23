@@ -1,5 +1,6 @@
 from collections import namedtuple
 from dbconnection import DbConnection
+import classes.constant.wafconnection  as wcon
 
 def singleton(cls):
     instances = {}
@@ -16,19 +17,37 @@ class GeoTextCoreEn(object):
     def __init__(self ):
         
         self.dbcon = DbConnection()
+        self.dropdownfile = wcon.DROPDOWN_JSON
         
         language = "en"
         
         #lead city 2   not lead city
         #lead city 1   lead city
         #lead city 0   simple city
-        
+        dropdownquery = '''
+        select name, null as detail, 'CONTINENT' as type from dn_continent_en_neo 
+        UNION
+        select name, null as detail, 'REGION' as type from dn_region_en_neo  
+        UNION
+        select count.name, cont.name as detail, 'COUNTRY' as type from dn_country_en count, dn_continent_en_neo cont
+         where cont.short_name = count.continent 
+        UNION
+        select prov.name, country.name as detail, 'PROVINCE' as type from dn_province_en_neo prov, dn_country_en_neo country
+         where country.country_code = prov.country_code 
+        UNION
+        select city.name, concat(city.name,', ', country.name) as detail, 'CITY' as type 
+        from dn_city_en_neo city, dn_country_en_neo country
+         where country.country_code = city.country_code ;
+        '''
         
         city_fields_variant = 'lower(name_variant), id'
         city_variant_where = 'name_variant is not null and lead_city =1 and valid_to > CURRENT_TIMESTAMP'
         city_table = 'dn_city'
         region_fields = 'lower(name), id'
+        region_adj_fields = 'lower(adjective), id'
         region_table = 'dn_region'
+        province_fields = 'lower(name), id'
+        province_table = 'dn_province'
         continent_fields = 'lower(name), id'
         continent_table = 'dn_continent'
         country_adj_fields = 'lower(adjective), id'
@@ -81,8 +100,20 @@ class GeoTextCoreEn(object):
                                               table=continent_table,
                                                where = '''language = 'en' and valid_to > CURRENT_TIMESTAMP''',
                                                one=False))
+        cont_adj = dict(self.dbcon.execute(fields=cont_adj_fields,
+                                            table=cont_adj_table,
+                                            where = '''valid_to > CURRENT_TIMESTAMP and adjective is not null and language = 'en' ''',
+                                             one=False ))
                          
         regions = dict(self.dbcon.execute(fields=region_fields,
+                                           table=region_table,
+                                           where = '''language = 'en' and valid_to > CURRENT_TIMESTAMP''',
+                                            one=False))
+        province = dict(self.dbcon.execute(fields=province_fields,
+                                           table=province_table,
+                                           where = '''valid_to > CURRENT_TIMESTAMP''',
+                                            one=False))
+        regions_adj = dict(self.dbcon.execute(fields=region_adj_fields,
                                            table=region_table,
                                            where = '''language = 'en' and valid_to > CURRENT_TIMESTAMP''',
                                             one=False))
@@ -97,10 +128,7 @@ class GeoTextCoreEn(object):
                                                     one=False))
         
         
-        cont_adj = dict(self.dbcon.execute(fields=cont_adj_fields,
-                                            table=cont_adj_table,
-                                            where = 'valid_to > CURRENT_TIMESTAMP and adjective is not null',
-                                             one=False ))
+        
         
         city_more_country = []
         citywithcountry = namedtuple('citywithcountry', 'id name country_code')
@@ -122,12 +150,17 @@ class GeoTextCoreEn(object):
 
     
         Index = namedtuple('Index', """cities cities_variant countries 
-        cities_ascii continents regions country_adj cont_adj city_more_country 
+        cities_ascii continents regions regions_adj province country_adj cont_adj city_more_country 
         countries_code country_adj_code countries_id cities_code cities_variant_code cities_ascii_code""")
         self.index= Index(cities,cities_variant, countries, cities_ascii, 
-                          continents, regions, country_adj, cont_adj, 
+                          continents, regions,regions_adj, province, country_adj, cont_adj, 
                           city_more_country, countries_code, country_adj_code,
                           countries_id,cities_code, cities_variant_code, cities_ascii_code)
+        
+        dropdownlist_dict = dict()
+        dropdownlist_dict['dropdownlist'] = [dict(zip( ['name', 'detail','type'],each)) for each in self.dbcon.executeQuery(dropdownquery, False)  ]
+
+        self.dropdown = dropdownlist_dict
     
 if __name__ == '__main__':
     print(len(GeoTextCoreEn().index.city_more_country))
@@ -135,3 +168,12 @@ if __name__ == '__main__':
     #print('countries',places.countries_short)
     #print('regions',places.regions_short)
     #print('continents', places.continents_short)
+    longlist = [['1','2','3'],['4','5','6'],['7','8','9']]
+    shortlist =['first', 'nd','rd']
+    print([dict(zip( shortlist,each)) for each in longlist  ]
+                                      )
+          
+    test = shortlist * len(longlist)
+    test2 = shortlist * len(longlist)
+    print(test)
+    print(test2)

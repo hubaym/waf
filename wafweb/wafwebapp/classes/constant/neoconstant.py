@@ -1,10 +1,10 @@
 
 LABEL_USER="user"
-LABEL_COUNTRY="geo_country"
 LABEL_CITY="geo_city"
 LABEL_CONTINENT="geo_continent"
 LABEL_REGION="geo_region"
 LABEL_COUNTRY="geo_country"
+LABEL_PROVINCE="geo_province"
 LABEL_GEO="geo"
 LABEL_CONTAINS="contains"
 LABEL_NEIGHBOUR="neighbour"

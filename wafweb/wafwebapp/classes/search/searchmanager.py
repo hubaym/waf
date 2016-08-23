@@ -17,6 +17,11 @@ class SearchManager():
         
      
         self.gatherResults(self.neosearch.seachByCriteria(criteria)  )
+        if 0==len(self.result):
+            print("no any result -try again")
+            criteria.deptDistance = 500
+            criteria.arrDistance = 600
+            self.gatherResults(self.neosearch.seachByCriteria(criteria)  )
         self.result = sorted(self.result, key=lambda x: x.point, reverse = True)
       
             

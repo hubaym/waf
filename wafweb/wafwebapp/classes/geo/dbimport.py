@@ -6,7 +6,45 @@ class DbImport(DbConnection):
     def __init__(self):
         super().__init__()
         
-    
+    def importProvince(self, language):
+        
+        if language =='en':
+            csvpath = settings.BASE_DIR + '/DB/Datasources/ds_province.csv'
+            table = 'temp_province'
+            
+        qry = """
+        TRUNCATE TABLE temp_province;
+        """
+        self.executeQuery(qry, None)
+        self.con.commit() 
+         
+        qry = """
+            update
+                dn_province
+            set 
+                valid_to = CURRENT_TIMESTAMP
+            where 
+                valid_to = (select max(valid_to) from dn_province);  
+        """
+        self.executeQuery(qry, None)
+        self.con.commit() 
+            
+        f = open(csvpath, 'r',encoding='utf8')
+        if f is not None:
+            f.readline()
+            self.cur.copy_from(f, table, sep=';', null='')
+            sql = "COPY  {0} FROM stdin DELIMITER \';\' CSV ;".format(table)
+            self.cur.copy_expert(sql, f)
+            self.con.commit()
+            f.close()
+        
+        qry = """
+        
+        INSERT INTO dn_province
+        select t.*, DATE '3000-01-01' from temp_province t;
+        """
+        self.executeQuery(qry, None)
+        self.con.commit()
     def importCountry(self, language):
         
         if language =='en':
@@ -204,9 +242,10 @@ if __name__ == '__main__':
     # you want to initialize the class
     database   = DbImport()
     #database.importContinent('en')    
-    #database.importRegion('en')    
+    database.importRegion('en')    
+    database.importProvince('en') 
     #database.importCountry('en')    
-    database.importCity('en')
+    #database.importCity('en')
     
     database.close()
     print('done')

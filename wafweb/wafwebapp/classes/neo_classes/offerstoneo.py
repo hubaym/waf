@@ -19,7 +19,9 @@ class OffersToNeo(NeoQuery):
                         text = offer.text,
                         language = offer.language,
                         source_lev_1 = offer.source_lev_1,
-                        source_lev_2 = offer.source_lev_2
+                        source_lev_2 = offer.source_lev_2,
+                        links = offer.links if 0<len(offer.links) else None,
+                        status = offer.status
                         )
         
         offerlabel = self.db.labels.create(neoc.LABEL_OFFER)
@@ -38,6 +40,8 @@ class OffersToNeo(NeoQuery):
                 #print("relationship conti {0}".format(continent))
           
         return  
+    
+    ##----------old stuff-------------------------------
         for conti in self.getListOf(offer.dept, 'CONTINENT'):
             continent = self.getContinentRootByCode(conti)
             if continent is not None:

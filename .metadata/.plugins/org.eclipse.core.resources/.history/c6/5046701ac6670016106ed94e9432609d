@@ -1,0 +1,17 @@
+'''
+Created on 2016. aug. 21.
+
+@author: hubaymarton
+'''
+
+
+class liveAgent():
+    
+    def __init__(self):
+        self.twitter_sleep_time = 60
+        self.ner_sleep_time = 60
+        
+    
+    
+    
+    def runTwitterAgent(self):

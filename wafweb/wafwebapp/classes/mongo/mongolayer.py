@@ -1,10 +1,9 @@
 from mongoconnection import MongoConnection
-import wafconnection as wcon
-
+from classes.utils.status
 class MongoLayer(MongoConnection):
     
-    def __init__(self, dbname=wcon.mongodatabase, collection=wcon.twittercollection):
-        MongoConnection.__init__(self, dbname=dbname, collection=collection)
+    def __init__(self ):
+        super().__init__()
         
         
     def getAllOffers(self):
@@ -25,6 +24,10 @@ class MongoLayer(MongoConnection):
                 {"language":"en"}
             ]
         }
+    def getEvaluatedOffers(self):
+        
+        jsonfilter = dict()
+        jsonfilter['status'] = status.TWITTER_EVALUATED
         
         return self.find(jsonfilter)
     

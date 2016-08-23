@@ -1,7 +1,7 @@
 import psycopg2
 import sys
-import wafconnection as wcon
-from waflog import WafLog
+import classes.constant.wafconnection as wcon
+from classes.constant.waflog import WafLog
 
 
 class DbConnection:
@@ -13,8 +13,11 @@ class DbConnection:
     def initconnection(self):
         try:
          
-            self.con = psycopg2.connect(database=wcon.database, user=wcon.user, password=wcon.password, 
-                            host=wcon.host, port=wcon.port)
+            self.con = psycopg2.connect(database=wcon.POSTG_DBNAME, 
+                                        user=wcon.POSTG_USER, 
+                                        password=wcon.POSTG_PSW, 
+                                        host=wcon.POSTG_HOST, 
+                                        port=wcon.POSTG_PORT)
             self.cur = self.con.cursor()
         
             

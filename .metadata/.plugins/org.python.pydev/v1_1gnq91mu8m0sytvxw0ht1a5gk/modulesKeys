@@ -1101,6 +1101,12 @@ faulthandler
 fnmatch|/Users/hubaymarton/Documents/errorfare/project/waf/env/lib/python3.5/fnmatch.py
 functools|/Users/hubaymarton/Documents/errorfare/project/waf/env/lib/python3.5/functools.py
 future_builtins
+fuzzywuzzy.StringMatcher|/Users/hubaymarton/Documents/errorfare/project/waf/env/lib/python3.5/site-packages/fuzzywuzzy/StringMatcher.py
+fuzzywuzzy.__init__|/Users/hubaymarton/Documents/errorfare/project/waf/env/lib/python3.5/site-packages/fuzzywuzzy/__init__.py
+fuzzywuzzy.fuzz|/Users/hubaymarton/Documents/errorfare/project/waf/env/lib/python3.5/site-packages/fuzzywuzzy/fuzz.py
+fuzzywuzzy.process|/Users/hubaymarton/Documents/errorfare/project/waf/env/lib/python3.5/site-packages/fuzzywuzzy/process.py
+fuzzywuzzy.string_processing|/Users/hubaymarton/Documents/errorfare/project/waf/env/lib/python3.5/site-packages/fuzzywuzzy/string_processing.py
+fuzzywuzzy.utils|/Users/hubaymarton/Documents/errorfare/project/waf/env/lib/python3.5/site-packages/fuzzywuzzy/utils.py
 gc
 genericpath|/Users/hubaymarton/Documents/errorfare/project/waf/env/lib/python3.5/genericpath.py
 gi

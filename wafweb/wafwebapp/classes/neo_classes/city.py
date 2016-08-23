@@ -2,8 +2,8 @@
 class City:
     
     def __init__(self,id, name, country_code = ' ',
-                 lat = ' ', lan = ' ', 
-                 label='geo_city',
+                 lat = ' ', lan = ' ',                
+                 province = ' ',
                  language="en",
                  name_foreign = ' '
                  ):
@@ -13,8 +13,8 @@ class City:
         self.lan = lan
         self.country_code = country_code
         self.language = language
-        self.label =label
         self.name_foreign = name_foreign
+        self.province = province
         
     
     

@@ -1,15 +1,15 @@
 import requests
-import wafconnection as wcon
+import classes.constant.wafconnection as wcon
 from neoquery import NeoQuery
 import json
-from waflog import WafLog
+from classes.constant.waflog import WafLog
 
-DB_URL = 'http://localhost:7474/db/data/'
+WS_URL = wcon.NEO_HOST +'/db/data/'
 
 class SpatialApi():
     
     def __init__(self):
-        self.__url = DB_URL
+        self.__url = WS_URL
 
     def getLayer(self, name):
         
@@ -53,7 +53,7 @@ class SpatialApi():
         extraURL = 'ext/SpatialPlugin/graphdb/addNodeToLayer'
         json = dict()
         json['layer'] = name
-        json['node'] = "http://localhost:7575/db/data/node/" + str(id)
+        json['node'] = self.url  + 'node/' + str(id)
         
         
         self.POST(self.__url + extraURL, json)
@@ -89,7 +89,7 @@ class SpatialApi():
     
     def POST(self, url, json):
         
-        resp = requests.post(url, json, auth=(wcon.neo_user, wcon.neo_psw)) 
+        resp = requests.post(url, json, auth=(wcon.NEO_USER, wcon.NEO_PSW)) 
         return resp.text
         
 if __name__ == '__main__':

@@ -4,6 +4,7 @@ import re
 from time import mktime
 import time
 from datetime import datetime
+import classes.utils.status 
 
 SOURCE_TWITTER = 'twitter'
 FIELD_DEFAULT = 'DEFAULT'
@@ -61,6 +62,7 @@ class Tweet2Json(object):
         self.extended_tweet['created_at'] = self.convert2Date(self.created_at)
         self.extended_tweet['source_level1'] = SOURCE_TWITTER
         self.extended_tweet['source_level2'] = self.user
+        self.extended_tweet['status'] = status.TWITTER_NOT_PROCESSED
         return dict(self.extended_tweet)
         
     def printIfWrong(self):

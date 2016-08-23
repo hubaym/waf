@@ -2283,7 +2283,7 @@ id;city;city_ascii;lat;lng;pop;country;iso2;iso3;province;city_hu;name_variant;l
 52281;Goyang;Goyang;37.65273586;126.8372485;903000;South Korea;KR;KOR;Gyeonggi-do;;;
 52282;Goycay;Goycay;40.65342165;47.74058956;35031.5;Azerbaijan;AZ;AZE;Göyçay;;;
 52283;Göteborg;Goteborg;57.75000083;12.0000321;520940.5;Sweden;SE;SWE;Västra Götaland;;;
-52284;Graaff Reinet;Graaff Reinet;-32.30000649;24.54004187;32958.5;South Africa;ZA;ZAF;Eastern Cape;;;
+52284;Graaff Reinet;Graaff Reinet;-32.30000649;24.54004187;32958.5;South Africa;ZA;ZAF;Eastern Cape;;Gothenburg;
 52285;Gracias;Gracias;14.58330306;-88.58330051;7909;Honduras;HN;HND;Lempira;;;
 52286;Grafton;Grafton;-29.71199909;152.9376827;7871.5;Australia;AU;AUS;New South Wales;;;
 52287;Grahamstown;Grahamstown;-33.29958372;26.52002437;70315.5;South Africa;ZA;ZAF;Eastern Cape;;;
@@ -3243,7 +3243,7 @@ id;city;city_ascii;lat;lng;pop;country;iso2;iso3;province;city_hu;name_variant;l
 53241;Knoxville;Knoxville;35.97001243;-83.92003036;417137;United States of America;US;USA;Tennessee;;;
 53242;Knysna;Knysna;-34.03292397;23.03331213;33887;South Africa;ZA;ZAF;Western Cape;;;
 53243;Kobe;Kobe;34.67998781;135.1699816;1528478;Japan;JP;JPN;Hyogo;;;
-53244;København;Kobenhavn;55.67856419;12.56348575;1085000;Denmark;DK;DNK;Hovedstaden;;;
+53244;København;Kobenhavn;55.67856419;12.56348575;1085000;Denmark;DK;DNK;Hovedstaden;;Copenhagen;
 53245;Koblenz;Koblenz;50.35047833;7.599990599;209976;Germany;DE;DEU;Rheinland-Pfalz;;;
 53246;Kobuk;Kobuk;66.9072455;-156.8809774;151;United States of America;US;USA;Alaska;;;
 53247;Kochi;Kochi;10.01500755;76.22391557;1061848;India;IN;IND;Kerala;;;
@@ -3951,7 +3951,7 @@ id;city;city_ascii;lat;lng;pop;country;iso2;iso3;province;city_hu;name_variant;l
 53949;Maroua;Maroua;10.59556643;14.32469641;260656;Cameroon;CM;CMR;Extrême-Nord;;;
 53950;Marovoay;Marovoay;-16.09954832;46.63331864;16513;Madagascar;MG;MDG;Mahajanga;;;
 53951;Marquette;Marquette;46.54673118;-87.40658757;23711;United States of America;US;USA;Michigan;;;
-53952;Marrakesh;Marrakesh;31.6299931;-7.999987428;855648;Morocco;MA;MAR;Marrakech - Tensift - Al Haouz;;;
+53952;Marrakesh;Marrakesh;31.6299931;-7.999987428;855648;Morocco;MA;MAR;Marrakech - Tensift - Al Haouz;;Marrakech;
 53953;Marrupa;Marrupa;-13.19838174;37.49945756;8762;Mozambique;MZ;MOZ;Nassa;;;
 53954;Marsabit;Marsabit;2.329998595;37.9799967;15910.5;Kenya;KE;KEN;Eastern;;;
 53955;Marsala;Marsala;37.80540428;12.43866166;60481.5;Italy;IT;ITA;Sicily;;;
@@ -4222,7 +4222,7 @@ id;city;city_ascii;lat;lng;pop;country;iso2;iso3;province;city_hu;name_variant;l
 54220;Montpelier;Montpelier;44.25997154;-72.57581323;8183;United States of America;US;USA;Vermont;;;
 54221;Montpelier;Montpelier;42.32262209;-111.2969123;2775.5;United States of America;US;USA;Idaho;;;
 54222;Montpellier;Montpellier;43.61039878;3.869985716;287753;France;FR;FRA;Languedoc-Roussillon;;;
-54223;Montréal;Montréal;45.49999921;-73.58329696;3017278;Canada;CA;CAN;Québec;;;
+54223;Montréal;Montréal;45.49999921;-73.58329696;3017278;Canada;CA;CAN;Québec;;Montreal;
 54224;Montrose;Montrose;38.47727541;-107.8655197;18463.5;United States of America;US;USA;Colorado;;;
 54225;Monywa;Monywa;22.1049931;95.14999548;204116.5;Myanmar;MM;MMR;Sagaing;;;
 54226;Moorhead;Moorhead;46.87430808;-96.74219344;34332.5;United States of America;US;USA;Minnesota;;;
@@ -5784,7 +5784,7 @@ id;city;city_ascii;lat;lng;pop;country;iso2;iso3;province;city_hu;name_variant;l
 55782;São Luís;Sao Luis;-2.515984681;-44.26599085;524692.5;Brazil;BR;BRA;Maranhão;;;
 55783;Sao Luiz Gonzaga;Sao Luiz Gonzaga;-28.41001137;-54.95998926;27798.5;Brazil;BR;BRA;Rio Grande do Sul;;;
 55784;Sao Mateus;Sao Mateus;-18.72962034;-39.85998071;63375.5;Brazil;BR;BRA;Espírito Santo;;;
-55785;Sao Paulo;Sao Paulo;-23.55867959;-46.62501998;14433147.5;Brazil;BR;BRA;São Paulo;;;
+55785;Sao Paulo;Sao Paulo;-23.55867959;-46.62501998;14433147.5;Brazil;BR;BRA;São Paulo;;Sao Paolo;
 55786;Sao Tome;Sao Tome;0.333402119;6.733325153;72192.5;Sao Tome and Principe;ST;STP;;;;
 55787;Sapele;Sapele;5.890427265;5.680004434;235424;Nigeria;NG;NGA;Delta;;;
 55788;Sapouy;Sapouy;11.5544444;-1.7736111;3837;Burkina Faso;BF;BFA;Ziro;;;
@@ -7313,7 +7313,7 @@ id;city;city_ascii;lat;lng;pop;country;iso2;iso3;province;city_hu;name_variant;l
 57311;Zumpango;Zumpango;19.81040448;-99.10998173;188994;Mexico;MX;MEX;México;;;
 57312;Zunyi;Zunyi;27.70002626;106.9200264;657646;China;CN;CHN;Guizhou;;;
 57313;Zuwarah;Zuwarah;32.93440961;12.07914872;123848;Libya;LY;LBY;An Nuqat al Khams;;;
-57314;Zürich;Zurich;47.37998781;8.55001013;724865;Switzerland;CH;CHE;Zürich;;;
+57314;Zürich;Zurich;47.37998781;8.55001013;724865;Switzerland;CH;CHE;Zürich;;Zuerich;
 57315;Zvezdnyy;Zvezdnyy;70.9565849;-179.5899789;10;Russia;RU;RUS;Chukchi Autonomous Okrug;;;
 57316;Zvishavane;Zvishavane;-20.32957436;30.04998979;34557.5;Zimbabwe;ZW;ZWE;Midlands;;;
 57317;Zvolen;Zvolen;48.58373863;19.13324011;38276.5;Slovakia;SK;SVK;Banskobystrický;;;

@@ -1,0 +1,12 @@
+
+
+class EmailSender():
+    
+    def __init__(self):
+        pass
+    
+    
+    def getEmailsandOffersFromDB(self):
+        pass
+    
+    def sendEmails(self):

@@ -1,12 +1,13 @@
 from pymongo import MongoClient
-import wafconnection as wcon
+import classes.constant.wafconnection as wcon
 
 
     
 class MongoConnection:
     
-    def __init__(self, dbname= wcon.mongodatabase, collection=wcon.twittercollection):
-        self._conn = MongoClient('localhost',27017)  
+    def __init__(self, dbname= wcon.MONGO_DBNAME, 
+                 collection=wcon.MONGO_TWITTER_COLLECTION):
+        self._conn = MongoClient('localhost',2107)  
         self._db   = self._conn[dbname]
         self.__collection = self._db[collection]
         print (self.__collection)

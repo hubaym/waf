@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;wafdj/wafweb/wafwebapp/classes/loader/emailsender&apos; to &apos;emailsender.py&apos;" description="Rename resource &apos;emailsender&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="wafweb/wafwebapp/classes/loader/emailsender" name="emailsender.py" stamp="1471803937933" updateReferences="true"/>
+</session>

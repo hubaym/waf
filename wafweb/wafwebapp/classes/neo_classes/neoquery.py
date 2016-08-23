@@ -1,11 +1,14 @@
 from neo4jrestclient import client
-import wafconnection as con
+import classes.constant.wafconnection as con
 from neo4jrestclient.client import GraphDatabase
-from waflog import WafLog
+from classes.constant.waflog import WafLog
+import classes.utils.status as status
 
 class NeoQuery():
 	def __init__(self):
-		self.db = GraphDatabase(con.neo_host, username=con.neo_user, password=con.neo_psw)
+		self.db = GraphDatabase(con.NEO_HOST, 
+							username=con.NEO_USER,
+							password=con.NEO_PSW)
 	
 	def getGeoByID(self,id):
 		q1 = '''pgid:{0}'''.format(id)
@@ -63,6 +66,16 @@ class NeoQuery():
 			return None
 		return result[0][0]
 
+	def getProvinceByName( self, name):
+		q1 = '''name:"{0}"'''.format(name)
+		q = '''
+		MATCH (n:geo_province{''' + q1+ '''}) 
+		RETURN n'''
+		result = self.db.query(q, returns=(client.Node))
+		if len(result) == 0:
+			WafLog().neologger.info("country {0} not found".format(name))
+			return None
+		return result[0][0]
 
 	
 	def getCityByName(self, name):
@@ -132,6 +145,12 @@ class NeoQuery():
 		self.db.query(q)
 		WafLog().neologger.info("index is created on geo, pgid")
 		
+	def createIndexOnProvince(self):
+		q ="""CREATE INDEX ON :geo_province(name) """
+		self.db.query(q)
+		WafLog().neologger.info("index is created on geo_province, name")	
+		
+		
 	def deleteDB(self):
 		q = """
 		MATCH (n) detach delete n"""
@@ -141,6 +160,14 @@ class NeoQuery():
 	def getAllCityID(self):
 		q = """
 		MATCH (n:geo_city) RETURN ID(n)"""
+		result = self.db.query(q)
+		return(result)
+	
+	def getOffersAndUsers(self):
+		q = """
+		MATCH (o:offer) 
+		WHERE o.status = 'IN_NEO_EMAIL_NOT_DONE'
+		RETURN ID(n)"""
 		result = self.db.query(q)
 		return(result)
 		

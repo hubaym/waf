@@ -1,6 +1,5 @@
 import logging
 import settings
-
 def singleton(cls):
     instances = {}
     def getinstance():
@@ -17,6 +16,7 @@ class WafLog():
         
         self.nerlogger = self.setup_logger('ner', settings.BASE_DIR + '/logs/ner.log', logging.INFO)
         self.neologger = self.setup_logger('neo', settings.BASE_DIR + '/logs/neo.log', logging.INFO)
+        self.twitterlogger = self.setup_logger('twitter', settings.BASE_DIR + '/logs/twitter.log', logging.INFO)
         
     def setup_logger(self,logger_name, log_file, level=logging.INFO):
         l = logging.getLogger(logger_name)
@@ -25,6 +25,7 @@ class WafLog():
         fileHandler.setFormatter(formatter)
         streamHandler = logging.StreamHandler()
         streamHandler.setFormatter(formatter)
+        l.propagate = False
     
         l.setLevel(level)
         l.addHandler(fileHandler)
@@ -34,4 +35,17 @@ class WafLog():
 if __name__=="__main__":
     WafLog().neologger.error('test')
     WafLog().neologger.info('test')
+    WafLog().twitterlogger.info('test')
+    WafLog().neologger.error('test')
+    WafLog().neologger.info('test')
+    WafLog().twitterlogger.info('test')
+    WafLog().neologger.error('test')
+    WafLog().neologger.info('test')
+    WafLog().twitterlogger.info('test')
+    WafLog().neologger.error('test')
+    WafLog().neologger.info('test')
+    WafLog().twitterlogger.info('test')
+    WafLog().neologger.error('test')
+    WafLog().neologger.info('test')
+    WafLog().twitterlogger.info('test')
     
