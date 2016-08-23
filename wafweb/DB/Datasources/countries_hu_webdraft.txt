@@ -1,0 +1,241 @@
+﻿Afganisztán	Afgán Iszlám Köztársaság (hivatalos), Afganisztáni Iszlám Köztársaság (elfogadott)	AF	Kabul	afgán, afganisztáni, afgán iszlám köztársasági, afganisztáni iszlám köztársasági	afgáni	AFN	puli	Afghanistan
+Aland-szigetek 	Åland-szigetek	AX	Mariehamn	ålandi, Åland-szigeteki	euró	EUR	cent	Åland
+Albánia	Albán Köztársaság	AL	Tirana	albán, albániai, albán köztársasági	lek	ALL	qindar	Albania
+Algéria	Algériai Demokratikus és Népi Köztársaság	DZ	Algír	algériai, algériai demokratikus és népi köztársasági	algériai dinár	DZD	centime	Algeria
+Amerikai Szamoa 	Amerikai Szamoa	AS	Pago Pago	szamoai, amerikai szamoai	USA-dollár	USD	cent	American Samoa
+Amerikai Virgin-szigetek 	Amerikai Virgin-szigetek	VI	Charlotte Amalie	amerikai Virgin-szigeteki	USA-dollár	USD	cent	Virgin Islands, U.s.
+Andorra	Andorrai Hercegség (hivatalos), Andorrai Fejedelemség (elfogadott)	AD	Andorra la Vella	andorrai, andorrai hercegségi, andorrai fejedelemségi	euró	EUR	cent	Andorra
+Angola	Angolai Köztársaság	AO	Luanda	angolai, angolai köztársasági	kwanza	AOA	cêntimo	Angola
+Anguilla 	Anguilla	AI	The Valley	anguillai	kelet-karibi dollár	XCD	cent	Anguilla
+Antarktisz	Antarktisz	AQ		antarktiszi				Antarctica
+Antigua és Barbuda	Antigua és Barbuda	AG	Saint John’s	Antigua és Barbuda-i	kelet-karibi dollár	XCD	cent	Antigua and Barbuda
+Apostoli Szentszék	Apostoli Szentszék (Vatikánvárosi Állam)	VA	Vatikánváros	apostoli szentszéki, vatikáni, vatikánvárosi, vatikánvárosi állami	euró	EUR	cent	Holy See (Vatican City State)
+Argentína	Argentin Köztársaság	AR	Buenos Aires	argentin, argentínai, argentin köztársasági	argentin peso	ARS	centavo	Argentina
+Aruba 	Aruba	AW	Oranjestad	arubai	arubai gulden (arubai forint)	AWG	cent	Aruba
+Ausztrália	Ausztrál Államszövetség	AU	Canberra	ausztrál, ausztráliai, ausztrál államszövetségi	ausztrál dollár	AUD	cent	Australia
+Ausztria	Osztrák Köztársaság	AT	Bécs	osztrák, ausztriai, osztrák köztársasági	euró	EUR	cent	Austria
+Az Amerikai Egyesült Államok Külső Szigetei	Az Amerikai Egyesült Államok Külső Szigetei	UM			USA-dollár	USD	cent	United States Minor Outlying Islands
+Azerbajdzsán	Azerbajdzsán Köztársaság (hivatalos), Azeri Köztársaság (elfogadott)	AZ	Baku	azeri, azerbajdzsáni, Azerbajdzsán köztársasági, azeri köztársasági	azerbajdzsáni manát	AZN	kopek	Azerbaijan
+Bahama-szigetek	Bahamai Közösség	BS	Nassau	bahamai, Bahama-szigeteki, bahamai közösségi	bahamai dollár	BSD	cent	Bahamas
+Bahrein	Bahreini Királyság	BH	Manáma	bahreini, bahreini királysági	bahreini dinár	BHD	fil	Bahrain
+Banglades	Bangladesi Népi Köztársaság	BD	Dakka	bangladesi, bangladesi népi köztársasági	taka	BDT	paisa	Bangladesh
+Barbados	Barbados	BB	Bridgetown	barbadosi	barbadosi dollár	BBD	cent	Barbados
+Belarusz / Fehéroroszország	Belarusz Köztársaság / Fehérorosz Köztársaság	BY	Minszk	belorusz, fehérorosz, fehéroroszországi, belarusz köztársasági, fehérorosz köztársasági	belorusz rubel	BYR	kopejka	Belarus
+Belgium	Belga Királyság	BE	Brüsszel	belga, belgiumi, belga királysági	euró	EUR	cent	Belgium
+Belize	Belize	BZ	Belmopan	belize-i	belize-i dollár	BZD	cent	Belize
+Benin	Benini Köztársaság	BJ	Porto Novo	benini, benini köztársasági	CFA-frank (BCEAO) 	XOF	centime	Benin
+Bermuda 	Bermuda	BM	Hamilton	bermudai	bermudai dollár	BMD	cent	Bermuda
+Bhután	Bhutáni Királyság	BT	Timpu	bhutáni, bhutáni királysági	ngultrum	BTN	chetrum	Bhutan
+Bissau-Guinea	Bissau-guineai Köztársaság	GW	Bissau	Bissau-guineai, Bissau-guineai köztársasági	CFA-frank (BCEAO)	XOF	centime	Guinea-Bissau
+Bolívia	Többnemzetiségű Bolíviai Állam	BO	Sucre	bolíviai, bolíviai köztársasági	boliviano	BOB	centavo	Bolivia
+Bosznia-Hercegovina	Bosznia-hercegovinai Köztársaság (hivatalos), Bosznia és Hercegovina Köztársaság (elfogadott)	BA	Szarajevó	bosnyák, boszniai, bosznia-hercegovinai, Bosznia és Hercegovina-i, bosznia-hercegovinai köztársasági, Bosznia és Hercegovina köztársasági	konvertibilis márka	BAM	pfennig	Bosnia and Herzegovina
+Botswana	Botswanai Köztársaság	BW	Gaborone	botswanai, botswanai köztársasági	pula	BWP	thebe	Botswana
+Bouvet-sziget 	Bouvet-sziget	BV		Bouvet-szigeti				Bouvet Island
+Brazília	Brazil Szövetségi Köztársaság	BR	Brazíliaváros (Brasília)	brazil, brazíliai, brazil szövetségi köztársasági	real	BRL	centavo	Brazil
+Brit Indiai-óceáni Terület	Brit Indiai-óceáni Terület	IO		brit indiai-óceáni területi	USA-dollár	USD	cent	British Indian Ocean Territory
+Brit Virgin-szigetek 	Brit Virgin-szigetek	VG	Road Town	brit Virgin-szigeteki	USA-dollár	USD	cent	Virgin Islands, British
+Brunei	Brunei Darussalam Állam	BN	Bandar Seri Begawan	brunei, Brunei Darussalam állami	brunei dollár	BND	sen	Brunei Darussalam
+Bulgária	Bolgár Köztársaság	BG	Szófia	bolgár, bulgáriai, bolgár köztársasági	leva	BGN	sztotinka	Bulgaria
+Burkina Faso	Burkina Fasó-i Köztársaság	BF	Ouagadougou	Burkina Fasó-i, burkinabé, Burkina Fasó-i köztársasági	CFA-frank (BCEAO) 	XOF	centime	Burkina Faso
+Burundi	Burundi Köztársaság	BI	Bujumbura	burundi, burundi köztársasági	burundi frank	BIF	centime	Burundi
+Chile	Chilei Köztársaság	CL	Santiago de Chile	chilei, chilei köztársasági	chilei peso	CLP	centavo	Chile
+Ciprus	Ciprusi Köztársaság	CY	Nicosia	ciprusi, ciprióta, ciprusi köztársasági	euró	EUR	cent	Cyprus
+Clipperton 	Clipperton-sziget	CP						Clipperton Island
+Comore-szigetek	Comore-szigeteki Unió (hivatalos), Comore Iszlám Szövetségi Köztársaság (elfogadott)	KM	Moroni	comore-i, Comore-szigeteki, Comore-szigeteki unióbeli, Comore iszlám szövetségi köztársasági	comore-i frank	KMF	centime	Comoros
+Cook-szigetek 	Cook-szigetek	CK	Avarua	Cook-szigeteki	új-zélandi dollár	NZD	cent	Cook Islands
+Costa Rica	Costa Rica Köztársaság	CR	San José	Costa Rica-i, Costa Rica köztársasági	Costa Rica-i colón	CRC	céntimo	Costa Rica
+Csád	Csádi Köztársaság	TD	N’Djamena	csádi, csádi köztársasági	CFA-frank (BEAC) 	XAF	centime	Chad
+Csehország	Cseh Köztársaság	CZ	Prága	cseh, csehországi, cseh köztársasági	cseh korona	CZK	halér	Czech Republic
+Dánia	Dán Királyság	DK	Koppenhága	dán, dániai, dán királysági	dán korona	DKK	őre	Denmark
+Dél-Afrika	Dél-afrikai Köztársaság	ZA	Pretoria	dél-afrikai, dél-afrikai köztársasági	rand	ZAR	cent	South Africa
+Dél-Georgia és Déli-Sandwich-szigetek 	Dél-Georgia és Déli-Sandwich-szigetek	GS		déli-Georgia és déli-Sandwich-szigeteki	font sterling	GBP	penny	South Georgia and the South Sandwich Islands
+Dél-Korea	Koreai Köztársaság	KR	Szöul	dél-koreai, koreai köztársasági	dél-koreai von	KRW	cson	Korea, Republic of
+Dominika	Dominikai Közösség	DM	Roseau	dominikai, dominikai közösségi	kelet-karibi dollár	XCD	cent	Dominica
+Dominikai Köztársaság	Dominikai Köztársaság	DO	Santo Domingo	dominikai, dominikai köztársasági	dominikai peso	DOP	centavo	Dominican Republic
+Dzsibuti	Dzsibuti Köztársaság	DJ	Dzsibuti	dzsibuti, dzsibuti köztársasági	dzsibuti frank	DJF	centime	Djibouti
+Ecuador	Ecuadori Köztársaság	EC	Quito	ecuadori, ecuadori köztársasági	USA-dollár	USD	cent	Ecuador
+Egyenlítői-Guinea	Egyenlítői-guineai Köztársaság	GQ	Malabo	egyenlítői-guineai, egyenlítői-guineai köztársasági	CFA-frank (BEAC)	XAF	centime	Equatorial Guinea
+Egyesült Államok	Amerikai Egyesült Államok	US	Washington	egyesült államokbeli, amerikai egyesült államokbeli	USA-dollár	USD	cent	United States
+Egyesült Arab Emírségek	Egyesült Arab Emírségek	AE	Abu-Dzabi	egyesült arab emírségekbeli	dirham	AED	fil	United Arab Emirates
+Egyesült Királyság	Nagy-Britannia és Észak-Írország Egyesült Királysága	UK	London	egyesült királyságbeli	font sterling	GBP	penny	United Kingdom
+Egyiptom	Egyiptomi Arab Köztársaság	EG	Kairó	egyiptomi, egyiptomi arab köztársasági	egyiptomi font	EGP	piaszter	Egypt
+Elefántcsontpart	Elefántcsontparti Köztársaság	CI	Yamoussoukro	elefántcsontparti, elefántcsontparti köztársasági	CFA-frank (BCEAO) 	XOF	centime	Cote D'Ivoire
+Eritrea	Eritrea Állam	ER	Aszmara	eritreai, Eritrea állami	nakfa	ERN	cent	Eritrea
+Északi-Mariana-szigetek 	Északi-Mariana-szigetek	MP	Garapan	északi-Mariana-szigeteki	USA-dollár	USD	cent	Northern Mariana Islands
+Észak-Korea	Koreai Népi Demokratikus Köztársaság	KP	Phenjan	észak-koreai, koreai népi demokratikus köztársasági	észak-koreai von	KPW	cson	Korea, Democratic People's Republic of
+Észtország	Észt Köztársaság	EE	Tallinn	észt, észtországi, észt köztársasági	észt korona	EEK	sent	Estonia
+Etiópia	Etióp Demokratikus Szövetségi Köztársaság	ET	Addisz-Abeba	etióp, etiópiai, etióp demokratikus szövetségi köztársasági	birr	ETB	cent	Ethiopia
+Falkland-szigetek	Falkland-szigetek	FK	Stanley	falklandi, Falkland-szigeteki	falklandi font	FKP	új penny	Falkland Islands (Malvinas)
+Feröer szigetek 	Feröer szigetek	FO	Tórshavn	feröeri, Feröer szigeteki	dán korona	DKK	őre	Faroe Islands
+Fidzsi-szigetek	Fidzsi-szigeteki Köztársaság (hivatalos), Fidzsi Köztársaság (elfogadott)	FJ	Suva	fidzsi, Fidzsi-szigeteki, Fidzsi-szigeteki köztársasági, fidzsi köztársasági	fidzsi dollár	FJD	cent	Fiji
+Finnország	Finn Köztársaság	FI	Helsinki	finn, finnországi, finn köztársasági	euró	EUR	cent	Finland
+Francia Déli Területek 	Francia Déli Területek	TF			euró	EUR	cent	French Southern Territories
+Francia Guyana 	Francia Guyana	GF	Cayenne	francia guyanai	euró	EUR	cent	French Guiana
+Francia Polinézia 	Francia Polinézia	PF	Papeete	francia polinéziai	CFP-frank	XPF	centime	French Polynesia
+Franciaország	Francia Köztársaság	FR	Párizs	francia, franciaországi, francia köztársasági	euró	EUR	cent	France
+Fülöp-szigetek	Fülöp-szigeteki Köztársaság	PH	Manila	filippínó, Fülöp-szigeteki, Fülöp-szigeteki köztársasági	fülöp-szigeteki peso	PHP	centavo	Philippines
+Gabon	Gaboni Köztársaság	GA	Libreville	gaboni, gaboni köztársasági	CFA-frank (BEAC)	XAF	centime	Gabon
+Gambia	Gambiai Köztársaság	GM	Banjul	gambiai, gambiai köztársasági	dalasi	GMD	butut	Gambia
+Ghána	Ghánai Köztársaság	GH	Accra	ghánai, ghánai köztársasági	ghánai cedi	GHS	pesewa	Ghana
+Gibraltár 	Gibraltár	GI	Gibraltár	gibraltári	gibraltári font	GIP	penny	Gibraltar
+Görögország	Görög Köztársaság	EL	Athén	görög, görögországi, görög köztársasági	euró	EUR	cent	Greece
+Grenada	Grenada	GD	Saint George’s	grenadai	kelet-karibi dollár	XCD	cent	Grenada
+Grönland 	Grönland	GL	Nuuk (Godthab)	grönlandi	dán korona	DKK	őre	Greenland
+Grúzia	Grúzia	GE	Tbiliszi	grúz, grúziai, grúz köztársasági	lari	GEL	tetri	Georgia
+Guadeloupe 	Guadeloupe	GP	Basse-Terre	guadeloupe-i	euró	EUR	cent	Guadeloupe
+Guam 	Guam	GU	Hagatna	guami	USA-dollár	USD	cent	Guam
+Guatemala	Guatemalai Köztársaság	GT	Guatemalaváros	guatemalai, guatemalai köztársasági	quetzal	GTQ	centavo	Guatemala
+Guinea	Guineai Köztársaság	GN	Conakry	guineai, guineai köztársasági	guineai frank	GNF		Guinea
+Guyana	Guyanai Szövetkezeti Köztársaság	GY	Georgetown	guyanai, guyanai szövetkezeti köztársasági	guyanai dollár	GYD	cent	Guyana
+Haiti	Haiti Köztársaság	HT	Port-au-Prince	haiti, haiti köztársasági	gourde	HTG	centime	Haiti
+Heard-sziget és McDonald-szigetek 	Heard-sziget és McDonald-szigetek	HM		Heard-sziget és McDonald-szigeteki				Heard Island and Mcdonald Islands
+Holland Antillák 	Holland Antillák	AN	Willemstad	holland antilláki	holland antillai gulden (holland antillai forint)	ANG	cent	Netherlands Antilles
+Hollandia	Holland Királyság	NL	Amszterdam	holland, holland királysági	euró	EUR	cent	Netherlands
+Honduras	Hondurasi Köztársaság	HN	Tegucigalpa	hondurasi, hondurasi köztársasági	lempira	HNL	centavo	Honduras
+Hongkong 	Hongkong Különleges Közigazgatási Terület	HK		hongkongi, hongkongi különleges közigazgatási területi	hongkongi dollár	HKD	cent	Hong Kong
+Horvátország	Horvát Köztársaság	HR	Zágráb	horvát, horvátországi, horvát köztársasági	kuna	HRK	lipa	Croatia
+India	Indiai Köztársaság	IN	Újdelhi	indiai, indiai köztársasági	indiai rúpia	INR	paisa	India
+Indonézia	Indonéz Köztársaság	ID	Jakarta	indonéz, indonéziai, indonéz köztársasági	indonéz rúpia	IDR	sen	Indonesia
+Irak	Iraki Köztársaság	IQ	Bagdad	iraki, iraki köztársasági	iraki dinár	IQD	fil	Iraq
+Irán	Iráni Iszlám Köztársaság	IR	Teherán	iráni, iráni iszlám köztársasági	iráni riál	IRR	dinár	Iran, Islamic Republic of
+Írország	Írország	IE	Dublin	ír, írországi	euró	EUR	cent	Ireland
+Izland	Izlandi Köztársaság	IS	Reykjavík	izlandi, izlandi köztársasági	izlandi korona	ISK		Iceland
+Izrael	Izrael Állam	IL	Tel Aviv (Jeruzsálem)	izraeli, Izrael állami	sékel	ILS	agora	Israel
+Jamaica	Jamaica	JM	Kingston	jamaicai	jamaicai dollár	JMD	cent	Jamaica
+Japán	Japán	JP	Tokió	japán, japáni	jen	JPY	szen	Japan
+Jemen	Jemeni Köztársaság	YE	Szanaa	jemeni, jemeni köztársasági	jemeni riál	YER	fil	Yemen
+Jordánia	Jordán Hasimita Királyság	JO	Ammán	jordán, jordániai, jordán hasimita királysági	jordániai dinár	JOD	fil	Jordan
+Kajmán-szigetek 	Kajmán-szigetek	KY	Georgetown	kajmán-szigeteki	kajmán-szigeteki dollár	KYD	cent	Cayman Islands
+Kambodzsa	Kambodzsai Királyság	KH	Phnompen	kambodzsai, kambodzsai királysági	riel	KHR	sen	Cambodia
+Kamerun	Kameruni Köztársaság	CM	Yaoundé	kameruni, kameruni köztársasági	CFA-frank (BEAC)	XAF	centime	Cameroon
+Kanada	Kanada	CA	Ottawa	kanadai	kanadai dollár	CAD	cent	Canada
+Karácsony-sziget 	Karácsony-sziget	CX	Flying Fish Cove	karácsony-szigeti	ausztrál dollár	AUD	cent	Christmas Island
+Katar	Katari Állam	QA	Doha	katari, katari állami	katari riál	QAR	dirham	Qatar
+Kazahsztán	Kazah Köztársaság	KZ	Asztana	kazah v. kazak, kazahsztáni, kazah köztársasági	tenge	KZT	tiyin	Kazakhstan
+Kelet-Timor	Kelet-timori Demokratikus Köztársaság	TL	Dili	kelet-timori, kelet-timori demokratikus köztársasági	USA-dollár	USD	cent	Timor-Leste
+Kenya	Kenyai Köztársaság	KE	Nairobi	kenyai, kenyai köztársasági	kenyai shilling	KES	cent	Kenya
+Kína	Kínai Népköztársaság	CN	Peking	kínai, kínai népköztársasági	renminbi jüan	CNY	jiao; fen	China
+Kirgizisztán	Kirgiz Köztársaság	KG	Biskek	kirgiz, kirgizisztáni, kirgiz köztársasági	kirgiz szom	KGS	tüin	Kyrgyzstan
+Kiribati	Kiribati Köztársaság	KI	Tarawa	kiribati, kiribati köztársasági	ausztrál dollár	AUD	cent	Kiribati
+Kókusz-szigetek/Keeling-szigetek	Kókusz-szigetek/Keeling-szigetek	CC	Bantam	kókusz-szigeteki, Keeling-szigeteki	ausztrál dollár	AUD	cent	Cocos (Keeling) Islands
+Kolumbia	Kolumbiai Köztársaság	CO	Bogotá	kolumbiai, kolumbiai köztársasági	kolumbiai peso	COP	centavo	Colombia
+Kongó	Kongói Köztársaság	CG	Brazzaville	kongói, kongói köztársasági	CFA-frank (BEAC)	XAF	centime	Congo
+Kongói Demokratikus Köztársaság	Kongói Demokratikus Köztársaság	CD	Kinshasa	kongói demokratikus köztársasági	kongói frank	CDF	centime	Congo, the Democratic Republic of the
+Közép-afrikai Köztársaság	Közép-afrikai Köztársaság	CF	Bangui	közép-afrikai, közép-afrikai köztársasági	CFA-frank (BEAC) 	XAF	centime	Central African Republic
+Kuba	Kubai Köztársaság	CU	Havanna	kubai, kubai köztársasági	kubai peso	CUP	centavo	Cuba
+Kuvait	Kuvait Állam	KW	Kuvaitváros	kuvaiti, Kuvait állami	kuvaiti dinár	KWD	fil	Kuwait
+Laosz	Laoszi Népi Demokratikus Köztársaság	LA	Vientián	laoszi, laoszi népi demokratikus köztársasági	kip	LAK	at	Lao People's Democratic Republic
+Lengyelország	Lengyel Köztársaság	PL	Varsó	lengyel, lengyelországi, lengyel köztársasági	zloty	PLN	grosz	Poland
+Lesotho	Lesothói Királyság	LS	Maseru	lesothói, lesothói királysági	loti	LSL	sente	Lesotho
+Lettország	Lett Köztársaság	LV	Riga	lett, lettországi, lett köztársasági	lat	LVL	santims	Latvia
+Libanon	Libanoni Köztársaság	LB	Bejrút	libanoni, libanoni köztársasági	libanoni font	LBP	piaszter	Lebanon
+Libéria	Libériai Köztársaság	LR	Monrovia	libériai, libériai köztársasági	libériai dollár	LRD	cent	Liberia
+Líbia	Líbiai Arab Szocialista Népi Nagy Dzsamahirija (hivatalos), Líbiai Arab Szocialista Nagy Népi Közösség (elfogadott)	LY	Tripoli	líbiai, líbiai arab szocialista népi nagy dzsamahirijai, líbiai arab szocialista nagy népi közösségi	líbiai dinár	LYD	dirham	Libyan Arab Jamahiriya
+Liechtenstein	Liechtensteini Hercegség	LI	Vaduz	liechtensteini, liechtensteini hercegségi	svájci frank	CHF	centime	Liechtenstein
+Litvánia	Litván Köztársaság	LT	Vilnius	litván, litvániai, litván köztársasági	litas	LTL	centas	Lithuania
+Luxemburg	Luxemburgi Nagyhercegség	LU	Luxembourg	luxemburgi, luxemburgi nagyhercegségi	euró	EUR	cent	Luxembourg
+Macedónia	Macedónia Volt Jugoszláv Köztársaság	MK	Szkopje	Macedónia volt jugoszláv köztársasági	dénár	MKD	deni	Macedonia
+Madagaszkár	Madagaszkári Köztársaság	MG	Antananarivo	madagaszkári, malagaszi, madagaszkári köztársasági	ariary	MGA	iraimbilanja	Madagascar
+Magyarország	Magyar Köztársaság	HU	Budapest	magyar, magyarországi, magyar köztársasági	forint	HUF	fillér	Hungary
+Makaó 	Makaó Különleges Közigazgatási Terület	MO	Makaó	makaói, Makaó különleges közigazgatási területi	pataca	MOP	avo	Macao
+Malajzia	Malajzia	MY	Kuala Lumpur	maláj, malajziai	ringgit	MYR	szen	Malaysia
+Malawi	Malawi Köztársaság	MW	Lilongwe	malawi, malawi köztársasági	malawi kwacha	MWK	tambala	Malawi
+Maldív-szigetek	Maldív Köztársaság	MV	Male	maldív, maldív-szigeteki, maldív köztársasági	maldív rúpia (rufiyaa)	MVR	laari	Maldives
+Mali	Mali Köztársaság	ML	Bamako	mali, mali köztársasági	CFA-frank (BCEAO) 	XOF	centime	Mali
+Málta	Máltai Köztársaság	MT	Valletta	máltai, máltai köztársasági	euró	EUR	cent	Malta
+Marokkó	Marokkói Királyság	MA	Rabat	marokkói, marokkói királysági	marokkói dirham	MAD	centime	Morocco
+Marshall-szigetek	Marshall-szigeteki Köztársaság	MH	Majuro	Marshall-szigeteki, Marshall-szigeteki köztársasági	USA-dollár	USD	cent	Marshall Islands
+Martinique 	Martinique	MQ	Fort-de-France	martinique-i	euró	EUR	cent	Martinique
+Mauritánia	Mauritániai Iszlám Köztársaság	MR	Nuáksút (Nouakchott)	mauritániai, mauritániai iszlám köztársasági	uguiya	MRO	khum	Mauritania
+Mauritius	Mauritiusi Köztársaság	MU	Port Louis	mauritiusi, mauritiusi köztársasági	mauritiusi rúpia	MUR	cent	Mauritius
+Mayotte 	Mayotte Területi Közösség	YT	Mamoudzou	mayotte-i, Mayotte területi közösségi	euró	EUR	cent	Mayotte
+Mexikó	Mexikói Egyesült Államok	MX	Mexikóváros	mexikói, mexikói egyesült államokbeli	mexikói peso	MXN	centavo	Mexico
+Mianmar 	Mianmari Államszövetség	MM	Rangun	mianmari, mianmari államszövetségi, burmai	kyat	MMK	pya	Myanmar
+Mikronézia	Mikronéziai Szövetségi Államok	FM	Palikir	mikronéz, mikronéziai, mikronéziai szövetségi államokbeli	USA-dollár	USD	cent	Micronesia, Federated States of
+Moldova	Moldovai Köztársaság	MD	Chişinău	moldáv, moldovai, moldován, moldovai köztársasági	moldován lej	MDL	bani	Moldova, Republic of
+Monaco	Monacói Hercegség	MC	Monaco	monacói, monacói hercegségi	euró	EUR	cent	Monaco
+Mongólia	Mongólia	MN	Ulánbátor	mongol, mongóliai	tugrik	MNT	möngö	Mongolia
+Montenegró	Montenegró	ME	Podgorica	montenegrói, montenegrói köztársasági	euró	EUR	cent	Montenegro
+Montserrat 	Montserrat	MS	Plymouth	montserrat-i	kelet-karibi dollár	XCD	cent	Montserrat
+Mozambik	Mozambiki Köztársaság	MZ	Maputo	mozambiki, mozambiki köztársasági	metical	MZN	centavo	Mozambique
+Namíbia	Namíbiai Köztársaság	NA	Windhoek	namíbiai, namíbiai köztársasági	namíbiai dollár; dél-afrikai rand	NAD;	cent	Namibia
+Nauru	Naurui Köztársaság	NR	Yaren	naurui, naurui köztársasági	ausztrál dollár	AUD	cent	Nauru
+Németország	Németországi Szövetségi Köztársaság	DE	Berlin	német, németországi, németországi szövetségi köztársasági	euró	EUR	cent	Germany
+Nepál	Nepáli Demokratikus Szövetségi Köztársaság	NP	Katmandu	nepáli, nepáli demokratikus szövetségi köztársasági	nepáli rúpia	NPR	paisa	Nepal
+Nicaragua	Nicaraguai Köztársaság	NI	Managua	nicaraguai, nicaraguai köztársasági	córdoba	NIO	centavo	Nicaragua
+Niger	Nigeri Köztársaság	NE	Niamey	nigeri, nigeri köztársasági	CFA-frank (BCEAO) 	XOF	centime	Niger
+Nigéria	Nigériai Szövetségi Köztársaság	NG	Abuja	nigériai, nigériai szövetségi köztársasági	naira	NGN	kobo	Nigeria
+Niue 	Niuei Köztársaság	NU	Alofi	niuei, niuei köztársasági	új-zélandi dollár	NZD	cent	Niue
+Norfolk-sziget 	Norfolk-sziget	NF	Kingston	Norfolk-szigeti	ausztrál dollár	AUD	cent	Norfolk Island
+Norvégia	Norvég Királyság	NO	Oslo	norvég, norvégiai, norvég királysági	norvég korona	NOK	őre	Norway
+Nyugat-Szahara 	Nyugat-Szahara 	EH	Ajún	nyugat-szaharai, szaharai	marokkói dirham	MAD	centime	Western Sahara
+Olaszország	Olasz Köztársaság	IT	Róma	olasz, olaszországi, olasz köztársasági	euró	EUR	cent	Italy
+Omán	Ománi Szultánság	OM	Maszkat	ománi, ománi szultánsági	ománi riál	OMR	baiza	Oman
+Oroszország	Orosz Föderáció	RU	Moszkva	orosz, oroszországi, orosz föderációbeli	orosz rubel	RUB	kopejka	Russian Federation
+Örményország	Örmény Köztársaság	AM	Jereván	örmény, örményországi, örmény köztársasági	dram	AMD	luma	Armenia
+Pakisztán	Pakisztáni Iszlám Köztársaság	PK	Iszlámábád	pakisztáni, pakisztáni iszlám köztársasági	pakisztáni rúpia	PKR	paisa	Pakistan
+Palau	Palaui Köztársaság	PW	Melekeok	palaui, palaui köztársasági	USA-dollár	USD	cent	Palau
+Panama	Panamai Köztársaság	PA	Panamavárosk	panamai, panamai köztársasági	balboa	PAB	centésimo	Panama
+Pápua Új-Guinea	Pápua Új-guineai Független Állam	PG	Port Moresby	pápua új-guineai, pápua új-guineai független állami	kina	PGK	toea	Papua New Guinea
+Paraguay	Paraguayi Köztársaság	PY	Asunción	paraguayi, paraguayi köztársasági	guaraní	PYG	céntimo	Paraguay
+Peru	Perui Köztársaság	PE	Lima	perui, perui köztársasági	új sol	PEN	céntimo	Peru
+Pitcairn-szigetek 	Pitcairn-szigetek	PN	Adamstown	pitcairni, Pitcairn-szigeteki	új-zélandi dollár	NZD	cent	Pitcairn
+Portugália	Portugál Köztársaság	PT	Lisszabon	portugál, portugáliai, portugál köztársasági	euró	EUR	cent	Portugal
+Puerto Rico 	Puerto Rico	PR	San Juan	Puerto Ricó-i	USA-dollár	USD	cent	Puerto Rico
+Réunion 	Réunion	RE	Saint-Denis	réunioni	euró	EUR	cent	Reunion
+Románia	Románia	RO	Bukarest	román, romániai	román lej	RON	bani	Romania
+Ruanda	Ruandai Köztársaság	RW	Kigali	ruandai, ruandai köztársasági	ruandai frank	RWF	centime	Rwanda
+Saint Kitts és Nevis	Saint Kitts és Nevis Államszövetség	KN	Basseterre	Saint Kitts és Nevis-i, Saint Kitts és Nevis államszövetségi	kelet-karibi dollár	XCD	cent	Saint Kitts and Nevis
+Saint Lucia	Saint Lucia	LC	Castries	Saint Lucia-i	kelet-karibi dollár	XCD	cent	Saint Lucia
+Saint-Pierre és Miquelon	Saint-Pierre és Miquelon Területi Közösség	PM	Saint-Pierre	Saint-Pierre és Miquelon-i, Saint-Pierre és Miquelon területi közösségi	euró	EUR	cent	Saint Pierre and Miquelon
+Saint Vincent és Grenadine-szigetek	Saint Vincent és Grenadine-szigetek	VC	Kingstown	Saint Vincent és Grenadine-szigeteki	kelet-karibi dollár	XCD	cent	Saint Vincent and the Grenadines
+Salamon-szigetek	Salamon-szigetek	SB	Honiara	Salamon-szigeteki	Salamon-szigeteki dollár	SBD	cent	Solomon Islands
+Salvador	Salvadori Köztársaság	SV	San Salvador	salvadori, salvadori köztársasági	salvadori colón	SVC	centavo	El Salvador
+San Marino	San Marino Köztársaság	SM	San Marino	San Marinó-i, San Marino köztársasági	euró	EUR	cent	San Marino
+São Tomé és Príncipe	São Tomé és Príncipe Demokratikus Köztársaság	ST	São Tomé	São Tomé és Príncipe-i, São Tomé és Príncipe demokratikus köztársasági	dobra	STD	céntimo	Sao Tome and Principe
+Seychelle-szigetek	Seychelle Köztársaság	SC	Victoria	seychelle-i, Seychelle-szigeteki, Seychelle köztársasági	seychelle-i rúpia	SCR	cent	Seychelles
+Sierra Leone	Sierra Leone Köztársaság	SL	Freetown	Sierra Leone-i, Sierra Leone köztársasági	leone	SLL	cent	Sierra Leone
+Spanyolország	Spanyol Királyság	ES	Madrid	spanyol, spanyolországi, spanyol királysági	euró	EUR	cent	Spain
+Srí Lanka	Srí Lanka Demokratikus Szocialista Köztársaság	LK	Colombo	Srí Lanka-i, Srí Lanka demokratikus szocialista köztársasági	Srí Lanka-i rúpia	LKR	cent	Sri Lanka
+Suriname	Suriname Köztársaság	SR	Paramaribo	suriname-i, Suriname köztársasági	suriname-i dollár	SRD	cent	Suriname
+Svájc	Svájci Államszövetség	CH	Bern	svájci, svájci államszövetségi	svájci frank	CHF	centime	Switzerland
+Svalbard- és Jan Mayen-szigetek 	Svalbard- és Jan Mayen-szigetek	SJ	Longyearbyen	Svalbard- és Jan Mayen-szigeteki	norvég korona	NOK	őre	Svalbard and Jan Mayen
+Svédország	Svéd Királyság	SE	Stockholm	svéd, svédországi, svéd királysági	svéd korona	SEK	őre	Sweden
+Szamoa	Szamoai Független Állam	WS	Apia	szamoai, szamoai független állami	tala	WST	sene	Samoa
+Szaúd-Arábia	Szaúd-arábiai Királyság	SA	Rijád	szaúdi, Szaúd-arábiai, Szaúd-arábiai királysági	szaúdi riál	SAR	halala	Saudi Arabia
+Szenegál	Szenegáli Köztársaság	SN	Dakar	szenegáli, szenegáli köztársasági	CFA-frank (BCEAO) 	XOF	centime	Senegal
+Szent Ilona 	Szent Ilona és kapcsolt területei	SH	Jamestown	Szent Ilona-i	Szent Ilona-i font	SHP	penny	Saint Helena
+Szerbia	Szerb Köztársaság	RS	Belgrád	szerb, szerbiai, szerb köztársasági	szerb dinár	RSD	para	Serbia
+Szingapúr	Szingapúri Köztársaság	SG	Szingapúr	szingapúri, szingapúri köztársasági	szingapúri dollár	SGD	cent	Singapore
+Szíria	Szíriai Arab Köztársaság	SY	Damaszkusz	szír, szíriai, szíriai arab köztársasági	szíriai font	SYP	piaszter	Syrian Arab Republic
+Szlovákia	Szlovák Köztársaság	SK	Pozsony (Bratislava)	szlovák, szlovákiai, szlovák köztársasági	euró	EUR	cent	Slovakia
+Szlovénia	Szlovén Köztársaság	SI	Ljubljana	szlovén, szlovéniai, szlovén köztársasági	euró	EUR	cent	Slovenia
+Szomália	Szomália	SO	Mogadishu	szomáli, szomáliai	szomáli shilling	SOS	cent	Somalia
+Szudán	Szudáni Köztársaság	SD	Kartúm	szudáni, szudáni köztársasági	szudáni font	SDG	piaszter	Sudan
+Szváziföld	Szváziföldi Királyság	SZ	Mbabane	szvázi, szváziföldi, szváziföldi királysági	lilangeni	SZL	cent	Swaziland
+Tádzsikisztán	Tádzsik Köztársaság	TJ	Dusanbe	tádzsik, tádzsikisztáni, tádzsik köztársasági	szomoni	TJS	diram	Tajikistan
+Tajvan 	Tajvan	TW	Tajpej	tajvani	tajvani új dollár	TWD	fen	Taiwan, Province of China
+Tanzánia	Tanzániai Egyesült Köztársaság	TZ	Dodoma	tanzániai, tanzániai egyesült köztársasági	tanzániai shilling	TZS	cent	Tanzania, United Republic of
+Thaiföld	Thaiföldi Királyság	TH	Bangkok	thai, thaiföldi, thaiföldi királysági	bát	THB	szatang	Thailand
+Togo	Togói Köztársaság	TG	Lomé	togói, togói köztársasági	CFA-frank (BCEAO) 	XOF	centime	Togo
+Tokelau-szigetek 	Tokelau-szigetek	TK		tokelaui, Tokelau-szigeteki	új-zélandi dollár	NZD	cent	Tokelau
+Tonga	Tongai Királyság	TO	Nuku’alofa	tongai, tongai királysági	pa’anga	TOP	seniti	Tonga
+Törökország	Török Köztársaság	TR	Ankara	török, törökországi, török köztársasági	török líra	TRY	kurus	Turkey
+Trinidad és Tobago	Trinidad és Tobago Köztársaság	TT	Port of Spain	Trinidad és Tobagó-i, Trinidad és Tobago köztársasági	Trinidad és Tobagó-i dollár	TTD	cent	Trinidad and Tobago
+Tunézia	Tunéziai Köztársaság	TN	Tunisz	tunéziai, tunéziai köztársasági	tunéziai dinár	TND	millime	Tunisia
+Turks- és Caicos-szigetek 	Turks- és Caicos-szigetek	TC	Cockburn Town	Turks- és Caicos-szigeteki	USA-dollár	USD	cent	Turks and Caicos Islands
+Tuvalu	Tuvalu	TV	Funafuti	tuvalui	ausztrál dollár	AUD	cent	Tuvalu
+Türkmenisztán	Türkmenisztán	TM	Asgabat	türkmén, türkmenisztáni	türkmén manát	TMT	tenge	Turkmenistan
+Uganda	Ugandai Köztársaság	UG	Kampala	ugandai, ugandai köztársasági	ugandai shilling	UGX	cent	Uganda
+Új-Kaledónia 	Új-Kaledónia	NC	Noumea	új-kaledóniai	CFP-frank	XPF	centime	New Caledonia
+Új-Zéland	Új-Zéland	NZ	Wellington	új-zélandi	új-zélandi dollár	NZD	cent	New Zealand
+Ukrajna	Ukrajna	UA	Kijev	ukrán, ukrajnai	hrivnya	UAH	kopejka	Ukraine
+Uruguay	Uruguayi Keleti Köztársaság	UY	Montevideo	uruguayi, uruguayi keleti köztársasági	uruguayi peso	UYU	centésimo	Uruguay
+Üzbegisztán	Üzbég Köztársaság	UZ	Taskent	üzbég, üzbegisztáni, üzbég köztársasági	üzbég szom	UZS	tiyin	Uzbekistan
+Vanuatu	Vanuatui Köztársaság	VU	Port Vila	vanuatui, vanuatui köztársasági	vatu	VUV		Vanuatu
+Venezuela	Venezuelai Bolivári Köztársaság	VE	Caracas	venezuelai, venezuelai bolivári köztársasági	bolívar fuerte	VEF	céntimo	Venezuela
+Vietnam	Vietnami Szocialista Köztársaság	VN	Hanoi	vietnami, vietnami szocialista köztársasági	dong	VND	hao, xu	Viet Nam
+Wallis és Futuna 	Wallis és Futuna	WF	Mata-Utu	Wallis és Futuna-i	CFP-frank	XPF	centime	Wallis and Futuna
+Zambia	Zambiai Köztársaság	ZM	Lusaka	zambiai, zambiai köztársasági	zambiai kwacha	ZMK	ngwee	Zambia
+Zimbabwe	Zimbabwei Köztársaság	ZW	Harare	zimbabwei, zimbabwei köztársasági	zimbabwei dollár	ZWL	cent	Zimbabwe
+Zöld-foki-szigetek	Zöld-foki Köztársaság	CV	Praia	zöld-foki, zöld-foki-szigeteki, zöld-foki köztársasági	zöld-foki köztársasági escudo	CVE	centavo	Cape Verde
