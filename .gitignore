@@ -1,0 +1,24 @@
+# some folders to ignore #
+##########################
+include/
+.metadata/
+data/
+lib/
+libs/
+bin/
+**/__pycache__/
+.openshift/
+wafdj/
+
+
+# pyc#
+*.pyc
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
