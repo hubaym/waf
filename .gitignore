@@ -10,10 +10,12 @@ bin/
 **/__pycache__/
 .openshift/
 wafdj/
-pip-selfcheck.json
+
 
 # pyc#
 *.pyc
+*.json
+*.log
 # OS generated files #
 ######################
 .DS_Store
