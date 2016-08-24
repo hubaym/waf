@@ -2,7 +2,7 @@ from offerstoneo import OffersToNeo
 from offer import Offer
 from mongolayer import MongoLayer
 from waflog import WafLog
-import classes.utils.status
+import status
 
 
 class OfferLoader():
